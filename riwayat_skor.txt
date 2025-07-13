@@ -1,0 +1,4 @@
+Jamil,300,Ppkn_sulit,274.74
+reyza,100,Ppkn_sulit,76.49
+jack,140,Matematika_sulit,111.76
+niel,60,Ppkn_sulit,75.75
